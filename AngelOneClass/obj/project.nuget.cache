@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAmoaLzQdO/eSKyODI5OnjDbnLzc5mK1m3kLoNaGShpxNezgqtTEiJDmI6FsaRlf5KkPlUlYZKZ0QSYK+f74WQ==",
+  "success": true,
+  "projectFilePath": "E:\\ANGEL_ONE_WEBSOCKETV2\\FinalCode_AngelOne_Placeorder\\AngelOneClass\\AngelOneClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AmanullaNaykawadi\\.nuget\\packages\\csvtextfieldparser\\1.2.2\\csvtextfieldparser.1.2.2.nupkg.sha512",
+    "C:\\Users\\AmanullaNaykawadi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\AmanullaNaykawadi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\AmanullaNaykawadi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\AmanullaNaykawadi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\AmanullaNaykawadi\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
