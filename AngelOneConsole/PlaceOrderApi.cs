@@ -14,12 +14,12 @@ namespace Websocket2
     {
       
         static Ticker ticker;
-        static string Client_code = "A50164063";
-        static string Password = "2159";
-        static string MyAPIKey = "dXHyO0Vl";
+        static string Client_code = "";
+        static string Password = "";
+        static string MyAPIKey = "";
         static string JWTToken = "";  // optional
         static string RefreshToken = ""; // optional
-        static string totp = "101505";
+        static string totp = "";
 
 
         static void Main(string[] args)
