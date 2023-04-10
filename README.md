@@ -31,7 +31,7 @@ SmartApi connect = new SmartApi(api_key, JWTToken, RefreshToken);
 OutputBaseClass obj = new OutputBaseClass();
 
 //Login by client code and password
-obj = connect.GenerateSession(Client_code, Password);
+obj = connect.GenerateSession(Client_code, Password,totp);
 AngelToken agr = obj.TokenResponse;
 
 
